@@ -1,6 +1,6 @@
-# simple_pomodoro
+# timer_app
 
-Simple flutter application for tracking work time with pomodoro technique
+Пример Flutter-приложения с архитектурой MVVM для Skill-Branch
 
 ## Getting Started
 
